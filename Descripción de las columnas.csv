@@ -1,0 +1,64 @@
+Nombre,Unidad,Descripción
+Current_A,A,Corriente A
+Current_B,A,Corriente B
+Current_C,A,Corriente C
+Current_N,A,Corriente N
+Current_G,A,Corriente G
+Current_Avg,A,Corriente Avg
+Current_UNB_A,A,Desbalance de orriente A
+Current_UNB_B,A,Desbalance de Corriente B
+Current_UNB_C,A,Desbalance de Corriente C
+Current_UNB_Worst,A,Peor valor de Desbalance de Corriente
+Voltage_A_B,V,Voltaje A B
+Voltage_B_C,V,Voltaje B C
+Voltage_C_A,V,Voltaje C A
+Voltage_L_L_Avg,V,Voltaje L L Avg
+Voltage_A_N,V,Voltaje A N
+Voltage_B_N,V,Voltaje B N
+Voltage_C_N,V,Voltaje C N
+rsrv1,,Reservada
+Voltage_L_N_Avg,V,Voltaje L N Avg
+Voltage_UNB_A_B,%,Desbalance Voltaje A B
+Voltage_UNB_B_C,%,Desbalance Voltaje B C
+Voltage_UNB_C_A,%,Desbalance Voltaje C A
+Voltage_UNB_L_L_Worst,%,Peor Desbalance Voltaje entre líneas
+Voltage_UNB_A_N,%,Desbalance Voltaje A N
+Voltage_UNB_B_N,%,Desbalance Voltaje B N
+Voltage_UNB_C_N,%,Desbalance Voltaje C N
+Voltage_UNB_L_N_Worst,%,Peor Desbalance Voltaje Línea Neutro
+Active_Power_A,kW,Potencia Activa A
+Active_Power_B,kW,Potencia Activa B
+Active_Power_C,kW,Potencia Activa C
+Active_Power_Total,kW,Potencia Activa Total
+Reactive_Power_A,kVAR,Potencia Reactiva A
+Reactive_Power_B,kVAR,Potencia Reactiva B
+Reactive_Power_C,kVAR,Potencia Reactiva C
+Reactive_Power_Total,kVAR,Potencia Reactiva Total
+Apparent_Power_A,kVA,Potencia Aparente A
+Apparent_Power_B,kVA,Potencia Aparente B
+Apparent_Power_C,kVA,Potencia Aparente C
+Apparent_Power_Total,kVA,Potencia Aparente Total
+Power_Factor_A,,Factor de Potencia A
+Power_Factor_B,,Factor de Potencia B
+Power_Factor_C,,Factor de Potencia C
+Power_Factor_Total,,Factor de Potencia Total
+Frequency,Hz,Frecuencia
+Temperature,°C,Temperatura
+Active_Energy_LastDay,Wh,Energía Activa LastDay
+rsrv2,,Reservada
+rsrv3,,Reservada
+rsrv4,,Reservada
+Energy_Acum_Datetime,Wh,Datetime Energía Acumulada
+Active_Energy_Delivered,Wh,Energía Activa Entregada
+Active_Energy_Received,Wh,Energía Activa Recibida
+Active_Energy_del_p_rec,Wh,Energía Activa Entregada mas Recibida
+Active_Energy_del_m_rec,Wh,Energía Activa Entregada menos Recibida
+Reactive_Energy_Delivered,VARh,Energía Reactiva Delivered
+Reactive_Energy_Received,VARh,Energía Reactiva Received
+Reactive_Energy_del_p_rec,VARh,Energía Reactiva Entregada mas Recibida
+Reactive_Energy_del_m_rec,VARh,Energía Reactiva Entregada menos Recibida
+Apparent_Energy_Delivered,VAh,Energía Aparente Entregada
+Apparent_Energy_Received,VAh,Energía Aparente Recibida
+Apparent_Energy_del_p_rec,VAh,Energía Aparente Entregada mas Recibida
+createdAt,,Fecha y hora de la muestra
+
